@@ -1,0 +1,97 @@
+.main-div{
+ width: 800px;
+ height: auto;
+ border: 1px solid red;
+ margin: 40px auto;
+}
+.hadder{
+ color: white;
+ text-align: center;
+ background: rgb(34, 24, 24);
+ margin: 0 6px 0 6px;
+ 
+}
+.funny{
+    color: red;
+    font-size: 15px;
+}
+.putter{
+    height: auto;
+    width: 200px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 40px 20px 30px 300px;
+    background: rgb(68, 131, 105);
+    border-radius: 3px;
+    box-shadow: 2px 2px rgb(6, 50, 53);
+}
+.sebak{
+    width: 400px;
+    height: auto;
+    background: rgb(192, 103, 103);
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 2px 40px 40px 2px;
+    margin: 0px 200px 20px 20px;
+    
+
+}
+
+.fast{
+    background: rgb(85, 13, 13);
+    color: turquoise;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 8px;
+    margin: 10px 220px 0px 0px;
+}
+   
+.chow{
+    height: 115px;
+    width: auto;
+    background: rgb(90, 83, 83);
+    color: rgb(222, 240, 238);
+    display: inline-block;
+    text-align: center;
+    padding: 8px;
+    margin: 10px 20px 0px 220px;
+    border-radius: 40px 4px 4px 40px;
+    box-shadow: 2px 2px rgb(24, 18, 18);
+}
+.secend{
+    background: #000;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0 2px 0 450px;
+    padding: 7px;
+    color: rgb(231, 223, 223);
+    font-size: 20px;
+}
+.slider{
+    width: 300px;
+    height: auto;
+    text-align: center;
+    background: rgb(194, 143, 143);
+    color: rgb(4, 15, 14);
+    display: inline-block;
+    text-align: center;
+    box-shadow: 2px 2px rgb(17, 14, 14);
+    text-align: center;
+    margin: 20px 200px 30px 200px;
+    border-radius: 50% 50% 3px 3px;
+    padding: 30px;
+}
+
+.therrd{
+    background: rgb(77, 70, 70);
+    display: inline-block;
+    border-radius: 50%;
+    padding: 7px;
+    color: white; 
+}
+.bild-up{
+    background: rgb(12, 9, 9);
+    color: white;
+    text-align: center;
+    margin: 20px 5px 2px 5px;
+} 
